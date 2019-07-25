@@ -11,17 +11,16 @@ Instead of using techniques like virtual DOM diffing, Svelte writes code that su
 ### Overall Score and Comments
 #### Score (Out of 10): 9
 #### General Comments
-Describe the stack (front-end only? full stack?), database, efficiency, etc. Describe the general usability and learnability
-
-Svelte is mostly a front-end framework, but it is evolving to be come full stack. 
+Svelte is a front-end framework, but it is evolving to be come full stack. Although there are some who describe Svelte as a compiler more than a library, because it turns the components into simple simple JavaScript.
 
 Using Svelte is very easy requiring minimal setup. The offical website has everything you would need to get started and learn including clear, simply examples and thorough documentation. 
 
-Their API breaks down 
+Their API breaks down examples by component format, template syntax, run time and compile time. Additionally, there is a vibriant support 
+community and a dedicated Discord chatroom devoted to Svelte.
 
 
 #### Pros
-* No boilerplate
+* Significantly less boilerplate
 * No virtual DOM
 * Truly reactive
 * Great documentation
@@ -35,6 +34,7 @@ Their API breaks down
 * It only needs a dead simple build script to get going
 * Hardly any files are needed in a base project
 * Runs is topological order
+* Built-in mechanism which recognizes unused CSS selectors and warns the developers
 
 
 
