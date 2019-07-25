@@ -13,9 +13,11 @@ Instead of using techniques like virtual DOM diffing, Svelte writes code that su
 #### General Comments
 Describe the stack (front-end only? full stack?), database, efficiency, etc. Describe the general usability and learnability
 
-Svelte is mostly a front-end framework, but it is evolving to be come full stack. There various dependencies that you can install that to help with server-side-rendering and database mangement, but everything is still fairly new and should not be used in production.
+Svelte is mostly a front-end framework, but it is evolving to be come full stack. 
 
-Using Svelte is very easy, their offical website has everything you would need to get started and learn. Their API breaks down 
+Using Svelte is very easy requiring minimal setup. The offical website has everything you would need to get started and learn including clear, simply examples and thorough documentation. 
+
+Their API breaks down 
 
 
 #### Pros
